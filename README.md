@@ -1,5 +1,10 @@
 # Instalacion-Ubuntu
 
-##¿Qué es Ubuntu?
+## ¿Qué es Ubuntu?
 
-Ubuntu es una distribución Linux basada en Debian GNU/Linux, que incluye principalmente software libre y de código abierto.[Enlace](https://es.wikipedia.org/wiki/Ubuntu)
+Ubuntu es una distribución Linux basada en Debian GNU/Linux, que incluye principalmente software libre y de código abierto.
+Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedio, con un fuerte enfoque en la facilidad de uso y en mejorar la experiencia del usuario. Está compuesto de múltiple software normalmente distribuido bajo una licencia libre o de código abierto. Estadísticas web sugieren que la cuota de mercado de Ubuntu dentro de las distribuciones Linux es, aproximadamente, del 52 %,3​4​ y con una tendencia a aumentar como servidor web.
+
+## REFERENCIAS
+
+Toda la información ha sido extraída de [Wikipedia](https://es.wikipedia.org/wiki/Ubuntu)
