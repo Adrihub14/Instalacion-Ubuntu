@@ -8,7 +8,7 @@ Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedi
 ## Proceso de instalación
 
 1. Instalamos VirtualBox para poder emular cualquier sistema operativo.
-2. [Paso 1](/home/adrgar/Pictures)
+2. [Paso 1](Instalación_Ubuntu.png)
 
 ## REFERENCIAS
 
