@@ -7,8 +7,8 @@ Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedi
 
 ## Proceso de instalación
 
-1. Instalamos VirtualBox para poder emular cualquier sistema operativo.
-2. [Paso 1](Instalación_Ubuntu.png)
+1. Instalamos VirtualBox para poder emular cualquier sistema operativo.[Paso 1](Instalación_Ubuntu.png)
+2. 
 
 ## REFERENCIAS
 
