@@ -7,11 +7,13 @@ Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedi
 
 ## Proceso de instalación
 
-1. Instalamos VirtualBox para poder emular cualquier sistema operativo en nuestro ordenador.[Paso 1](Instalación_Ubuntu.png)
+1. Instalamos VirtualBox para poder emular cualquier sistema operativo en nuestro ordenador.![Instalación_Ubuntu](https://user-images.githubusercontent.com/122264612/227878695-312fa331-d118-4fb4-8477-d23de32d9467.png)
+
+
 2. Hacemos click en "Nueva" para empezar con la configuración del emulador. Saldrá una ventana como la imagen donde se buwsca el sistema operativo deseado y se le aplica una cantidad de memoria RAM(Se recomienda la mitad de lo que tenga el ordenador pricipal) [Paso 2](Instalación_Ubuntu2.png)
 3. Se creará una carpeta con el nombre deseado donde se ubicará el sistema operativo, también aparecerá la cantidad de almacenamiento que tendrá el sistema operativo emulado. [Paso 3](Instalación_Ubuntu3.png)
 
 ## REFERENCIAS
 
-Toda la información ha sido extraída de [Wikipedia](https://es.wikipedia.org/wiki/Ubuntu)![Instalacion_Ubuntu8](https://user-images.githubusercontent.com/122264612/227878487-82ea100f-ea0b-4e31-9032-6314a0447e26.png)
+Toda la información ha sido extraída de [Wikipedia](https://es.wikipedia.org/wiki/Ubuntu)
 
