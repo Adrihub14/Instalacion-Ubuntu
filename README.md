@@ -18,7 +18,7 @@ Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedi
 ![Instalación_Ubuntu2](https://user-images.githubusercontent.com/122264612/227878775-9c96ded8-3788-420e-b978-b611b8ac2c17.png)
   
   
-4. Se creará una carpeta con el nombre deseado donde se ubicará el sistema operativo, también aparecerá la cantidad de almacenamiento que tendrá el sistema operativo emulado. 
+3. Se creará una carpeta con el nombre deseado donde se ubicará el sistema operativo, también aparecerá la cantidad de almacenamiento que tendrá el sistema operativo emulado. 
  
 ![Instalación_Ubuntu3](https://user-images.githubusercontent.com/122264612/227878866-d2b2a4a6-e8fa-4f75-916a-fadea62bb037.png)
 
