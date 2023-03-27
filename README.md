@@ -13,4 +13,5 @@ Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedi
 
 ## REFERENCIAS
 
-Toda la información ha sido extraída de [Wikipedia](https://es.wikipedia.org/wiki/Ubuntu)
+Toda la información ha sido extraída de [Wikipedia](https://es.wikipedia.org/wiki/Ubuntu)![Instalacion_Ubuntu8](https://user-images.githubusercontent.com/122264612/227878487-82ea100f-ea0b-4e31-9032-6314a0447e26.png)
+
